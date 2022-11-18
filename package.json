@@ -59,7 +59,7 @@
     "source-map-loader": "^0.2.4",
     "style-loader": "^0.23.0",
     "supertest": "^3.3.0",
-    "svg-inline-loader": "^0.8.0",
+    "svg-inline-loader": "^0.8.2",
     "ts-jest": "^23.1.4",
     "ts-node": "^8.0.2",
     "tsc": "^1.20150623.0",
